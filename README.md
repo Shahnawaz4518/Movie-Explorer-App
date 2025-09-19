@@ -57,8 +57,8 @@ A modern, feature-rich Movie Explorer application built with Next.js 15, TypeScr
 ### 1. Clone and Install Dependencies
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd movie-explorer-app
+git clone https://github.com/Shahnawaz4518/Movie-Explorer-App.git
+cd Movie-Explorer-App
 
 # Install dependencies
 npm install
@@ -204,6 +204,12 @@ src/
 - Implement caching strategies for better performance
 
 ## 🚀 Deployment
+
+### Live Application
+The application is deployed and accessible at: [https://movie-explorer-app-ulap.vercel.app/](https://movie-explorer-app-ulap.vercel.app/)
+
+### GitHub Repository
+The source code is available at: [https://github.com/Shahnawaz4518/Movie-Explorer-App](https://github.com/Shahnawaz4518/Movie-Explorer-App)
 
 ### Vercel (Recommended)
 1. Push your code to GitHub
